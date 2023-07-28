@@ -1,0 +1,41 @@
+[27-Apr-2023 09:30:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 97du-d3cal¡e¡1137CEj]’556ü91>}=vb5%41ce-È3n5() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[27-Apr-2023 10:27:13 UTC] PHP Fatal error:  Cannot redeclare ih8() (previously declared in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:54) in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 54
+[10-May-2023 00:08:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function …zaC°CfU5a613ﬁ0ni4-41jmm93¥5çb3≥je1bq11„]Lo˙,O°C;56ç<;s-0Rb?-ƒÒce-9:T5-d?c1iAea11<7CiZcANLe5U=Q703-0bb8-ƒ1e-83d5"n3cae;ea?¡37CiZa±ÓIe15>¡9õ3˝0≤m:-Ì1Å’"à>§ï-d£Ÿau¡ea1197Chja!·âh557a;13-≤abµ-Ñagøç9>T5&d3”‘n1eí·<7SiZ:IACe:5&a913-0a√9-4;ae÷9Ûnï-d6cae1e°93”7siZzAÒCe2Õ6a313”†0a5+Ù:aÖ-93oU'$(ca!ea413„iVkÒAC.u5<k913!;BR5-:Òke-üˇa˙-d3·Â1oaés◊NbU°Å±CU5ïàa513 0bo5-81a•-3≥d5-§3je:ea<?Î7CπZoKLNî˛5÷a98≥13bÛ5-<Åae.˘3Ñ5-dìcaeÅel1°C8√iZbAAOe55=a919!0bb() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[10-May-2023 00:08:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4±9!Ìbí5"î1äl+ÈÍdÖ"d3hae1ek1º37H•556ai>-:bb8›‰1ae'È3i'b"cm•ea=°ÿHe55>!91ÛM<bb5—TÎe() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[10-May-2023 00:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 31ƒ>Õd3c±c1e¡1t;Aed«Va91ì rb5-‘1le-93i8˝r=gµ1ngﬁ03ßMe5Ua9œ3-0nb5Õ41qc-53d<ı3a ïqdIÌ1c7Bh≈56m453-èonu-“ëa5-93‰5-d?c1e1’ ;[†7Le>16a:>() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[10-May-2023 00:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d8—f8µ±Å<<7kqí556n9VÛ'0bn•-411i945() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[10-May-2023 00:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 44lo-Ç3d5-j2cae1e2›‘W–J~C˜M’55791</;k`’)41¡j->3m-ïmÉcjÖv’a<v3˜˜jës”NMµE}ÊaY1() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[12-May-2023 19:02:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 03c=.d<Qle1Ÿ1147LM≠a9Ea9˙3() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76
+[12-May-2023 19:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function êb•!t1Òf-)34ï*bccc•;uo1A√◊{i≠ï51ñ°>˜0˝pmb?41Åe-89d5Ωd3na⁄·da±187¿g]hô5Êb9—`() in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php:76
+Stack trace:
+#0 /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php(93): ep9(Array, Array)
+#1 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-includes/css/dist/admin.php on line 76

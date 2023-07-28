@@ -1,0 +1,4 @@
+[12-May-2023 19:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function jn() in /home/anxorennsqi4/public_html/wp-content/themes/izo/vendor/image.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/anxorennsqi4/public_html/wp-content/themes/izo/vendor/image.php on line 3
