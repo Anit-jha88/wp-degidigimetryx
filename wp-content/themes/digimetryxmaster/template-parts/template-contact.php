@@ -5,7 +5,7 @@
 get_header();
 ?>
 
-<?php echo get_template_part( 'template-parts/header', 'banner' ); ?>
+<?php echo get_template_part( 'template-parts/header', 'banner' ); ?> 
 	<!-- Start Contact Box Area -->
 	<section class="contact-info-wrapper">
 		<div class="container">
